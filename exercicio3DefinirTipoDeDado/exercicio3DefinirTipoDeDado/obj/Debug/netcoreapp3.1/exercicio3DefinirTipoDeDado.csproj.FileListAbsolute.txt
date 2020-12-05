@@ -1,0 +1,13 @@
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\bin\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.exe
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\bin\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.deps.json
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\bin\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.runtimeconfig.json
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\bin\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.runtimeconfig.dev.json
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\bin\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.dll
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\bin\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.pdb
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\obj\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.csprojAssemblyReference.cache
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\obj\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\obj\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\obj\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\obj\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.dll
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\obj\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.pdb
+C:\Users\DESKTOP\Desktop\Aula Malandragem\aulasOutOffTheBox\exercicio3DefinirTipoDeDado\exercicio3DefinirTipoDeDado\obj\Debug\netcoreapp3.1\exercicio3DefinirTipoDeDado.genruntimeconfig.cache

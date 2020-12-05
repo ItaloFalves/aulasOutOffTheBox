@@ -1,0 +1,13 @@
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\bin\Debug\netcoreapp3.1\tabelaValores.exe
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\bin\Debug\netcoreapp3.1\tabelaValores.deps.json
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\bin\Debug\netcoreapp3.1\tabelaValores.runtimeconfig.json
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\bin\Debug\netcoreapp3.1\tabelaValores.runtimeconfig.dev.json
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\bin\Debug\netcoreapp3.1\tabelaValores.dll
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\bin\Debug\netcoreapp3.1\tabelaValores.pdb
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\obj\Debug\netcoreapp3.1\tabelaValores.csprojAssemblyReference.cache
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\obj\Debug\netcoreapp3.1\tabelaValores.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\obj\Debug\netcoreapp3.1\tabelaValores.AssemblyInfo.cs
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\obj\Debug\netcoreapp3.1\tabelaValores.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\obj\Debug\netcoreapp3.1\tabelaValores.dll
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\obj\Debug\netcoreapp3.1\tabelaValores.pdb
+C:\Users\DESKTOP\source\repos\tabelaValores\tabelaValores\obj\Debug\netcoreapp3.1\tabelaValores.genruntimeconfig.cache

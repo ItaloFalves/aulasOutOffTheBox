@@ -1,0 +1,13 @@
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\bin\Debug\netcoreapp3.1\ExercicioLampada.exe
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\bin\Debug\netcoreapp3.1\ExercicioLampada.deps.json
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\bin\Debug\netcoreapp3.1\ExercicioLampada.runtimeconfig.json
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\bin\Debug\netcoreapp3.1\ExercicioLampada.runtimeconfig.dev.json
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\bin\Debug\netcoreapp3.1\ExercicioLampada.dll
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\bin\Debug\netcoreapp3.1\ExercicioLampada.pdb
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\obj\Debug\netcoreapp3.1\ExercicioLampada.csprojAssemblyReference.cache
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\obj\Debug\netcoreapp3.1\ExercicioLampada.AssemblyInfoInputs.cache
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\obj\Debug\netcoreapp3.1\ExercicioLampada.AssemblyInfo.cs
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\obj\Debug\netcoreapp3.1\ExercicioLampada.csproj.CoreCompileInputs.cache
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\obj\Debug\netcoreapp3.1\ExercicioLampada.dll
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\obj\Debug\netcoreapp3.1\ExercicioLampada.pdb
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\ExercicioLampada\ExercicioLampada\obj\Debug\netcoreapp3.1\ExercicioLampada.genruntimeconfig.cache

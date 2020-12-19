@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Argolo-Note\\Desktop\\OutOfTheBox\\ExercicioRetangulo\\ExercicioRetangulo\\ExercicioRetangulo.csproj",
+      "projectUniqueName": "C:\\Users\\Argolo-Note\\Desktop\\OutOfTheBox\\aulasOutOffTheBox\\ExercicioRetangulo\\ExercicioRetangulo\\ExercicioRetangulo.csproj",
       "projectName": "ExercicioRetangulo",
-      "projectPath": "C:\\Users\\Argolo-Note\\Desktop\\OutOfTheBox\\ExercicioRetangulo\\ExercicioRetangulo\\ExercicioRetangulo.csproj",
+      "projectPath": "C:\\Users\\Argolo-Note\\Desktop\\OutOfTheBox\\aulasOutOffTheBox\\ExercicioRetangulo\\ExercicioRetangulo\\ExercicioRetangulo.csproj",
       "packagesPath": "C:\\Users\\Argolo-Note\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Argolo-Note\\Desktop\\OutOfTheBox\\ExercicioRetangulo\\ExercicioRetangulo\\obj\\",
+      "outputPath": "C:\\Users\\Argolo-Note\\Desktop\\OutOfTheBox\\aulasOutOffTheBox\\ExercicioRetangulo\\ExercicioRetangulo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Argolo-Note\\AppData\\Roaming\\NuGet\\NuGet.Config",

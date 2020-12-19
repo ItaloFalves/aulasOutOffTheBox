@@ -1,0 +1,13 @@
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.csprojAssemblyReference.cache
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.AssemblyInfoInputs.cache
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.AssemblyInfo.cs
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.exe
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.deps.json
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.runtimeconfig.json
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.runtimeconfig.dev.json
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.dll
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp3.1\ExercicioRetangulo.pdb
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.dll
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.pdb
+C:\Users\Argolo-Note\Desktop\OutOfTheBox\aulasOutOffTheBox\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp3.1\ExercicioRetangulo.genruntimeconfig.cache
